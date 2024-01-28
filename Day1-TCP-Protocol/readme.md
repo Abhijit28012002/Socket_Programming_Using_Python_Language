@@ -1,5 +1,5 @@
-                                Transmission Control Protocol (TCP)
-                                ===================================
+Transmission Control Protocol (TCP)
+===================================
 
 
 ##### Transmission Control Protocol (TCP) is a widely used communication protocol in computer networks. It is part of the Internet Protocol suite and is responsible for ensuring reliable, ordered, and error-checked delivery of data between connected devices. TCP is a connection-oriented protocol, meaning that a connection is established between the sender and receiver before data transfer begins. Here are some key aspects of TCP:
