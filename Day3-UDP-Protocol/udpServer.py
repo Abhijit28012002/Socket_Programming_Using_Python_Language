@@ -12,7 +12,7 @@ if __name__=='__main__':
         data, addr = server.recvfrom(1024)
         data = data.decode('utf-8')
 
-        print(f"Client: {data}")
+        print(f"Received message: {data} from {addr}")
         mess="Data Receive Successfully!!"
         mess=mess.encode('utf-8')
         server.sendto(mess,addr)
