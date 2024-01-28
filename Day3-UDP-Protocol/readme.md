@@ -1,5 +1,5 @@
-                                User Datagram Protocol(UDP)
-                                ===========================
+User Datagram Protocol(UDP)
+===========================
 
 
 **User Datagram Protocol (UDP)** is one of the core protocols in the Internet Protocol (IP) suite. It operates at the transport layer and provides a connectionless, unreliable communication service. Unlike Transmission Control Protocol (TCP), UDP does not establish a connection before sending data and does not guarantee the delivery of packets. UDP is often used in situations where low overhead and minimal latency are more important than reliability, such as in real-time applications like online gaming, streaming, and voice over IP (VoIP).
